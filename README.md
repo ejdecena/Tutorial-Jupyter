@@ -1,3 +1,7 @@
+<div align = "center">
+    <img src = "imagenes/logo_jupyter.jpg" width = "70" height = "70" />
+</div>
+
 # Tutorial Jupyter.
 
 *Tutorial Jupyter* es un notebook de aprendizaje sobre las funcionalidades de los *Jupyter Notebooks* para la programación en *Python*.
