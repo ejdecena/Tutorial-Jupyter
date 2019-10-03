@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "imagenes/logo_jupyter.jpg" width = "70" height = "70" />
+    <img src = "imagenes/logo_jupyter.jpg" width = "80" height = "70" />
 </div>
 
 # Tutorial Jupyter.
