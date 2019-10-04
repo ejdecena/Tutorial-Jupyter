@@ -20,7 +20,7 @@
 
 Este proyecto requiere la instalación de la siguiente dependencia externa:
 
-* *Jupyter 1.0.0*
+* *Jupyter 1.0.0* (`$ pip install jupyter`)
 
 Esta dependencia puede instalarse por separado siguiendo las instrucciones propias del notebook, o pueden instalarse mediante la ejecución de una única instrucción en la terminal:
 ```bash
